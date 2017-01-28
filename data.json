@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Blue and White",
+    "id": "blue",
+    "ingredients": [
+      "ham",
+      "shrimp",
+      "sausage"
+    ],
+    "prize": 6.95
+  },
+  {
+    "name": "Pizza of the House",
+    "id": "hous",
+    "ingredients": [
+      "pineapple",
+      "Ham"
+    ],
+    "prize": 5.50
+  },
+  {
+    "name": "Opera",
+    "id": "oper",
+    "ingredients": [
+      "salami",
+      "jalapeño",
+      "minced meat",
+      "olives"
+    ],
+    "prize": 5.50
+  },
+  {
+    "name": "Frutti di Mare",
+    "id": "frut",
+    "ingredients": [
+      "shrimp",
+      "tuna Fish",
+      "olives"
+    ],
+    "prize": 8.00
+  },
+  {
+    "name": "Bosses surprise",
+    "id": "boss",
+    "ingredients": [
+      "surp1",
+      "surp2",
+      "surp3"
+    ],
+    "prize": 6.50
+  }
+]
